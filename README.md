@@ -5,13 +5,13 @@
      -Executer 
      
               ```
-              npm init
+                npm init
               ```
              
      -Executer
      
               ```
-              npm install body-parser express express-list-endpoints mongoose nodemon officegen dotenv --save
+                npm install body-parser express express-list-endpoints mongoose nodemon officegen dotenv --save
               ```
               
      -Allez au fichier package.json 
@@ -25,6 +25,6 @@
    -Executer 
    
               ```
-              npm start
+               npm start
               ```
      
