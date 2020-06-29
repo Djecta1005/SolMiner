@@ -1,2 +1,2 @@
 # SolMiner
-#Les installation et les configuration :
+## Les installation et les configuration :
