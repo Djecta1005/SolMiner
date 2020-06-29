@@ -1,5 +1,11 @@
 # SolMiner
 ## Les installation et les configuration BackEnd:
+  Initialiser les deux repertoires Serveur et Client en saisissant cette commande
+
+   ```
+    npm init
+   ```
+
   Dans chaque microservice FournitureLocale/FournitureAtlas/Volontaire:
   
      - Executer 
