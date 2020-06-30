@@ -1,9 +1,9 @@
 const express = require('express');
 
 const router=express.Router();
-const wilaya = require('../db/wilaya').wilaya;
-const establishment = require('../db/establishment').establishment;
-const supplyRequest= require('../db/supplyRequest').supplyRequest;
+const wilaya = require('../db/wilaya');
+const establishment = require('../db/establishment')
+const supplyRequest= require('../db/supplyRequest')
 
 //un representant d'une wilaya peut voir  fournitures menquantes au niveau des etablissments de sa wilaya 
 router.get('/Request/:wilaya/:establishment', async (req, res) => {
